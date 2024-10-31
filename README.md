@@ -28,8 +28,8 @@
   <img width="50" src="https://github.com/leffin23/leffin23/blob/main/nodejs-icon.svg"/>
   <img width="50" src="https://github.com/leffin23/leffin23/blob/main/postgresql.svg"/>
   <img height="60" src="https://github.com/leffin23/leffin23/blob/main/mongodb-icon.svg"/>  
-  <img width="50" src="https://github.com/leffin23/leffin23/blob/main/html-5.svg"/>
-  <img width="50" src="https://github.com/leffin23/leffin23/blob/main/css-3.svg"/>
+  <img height="55" src="https://github.com/leffin23/leffin23/blob/main/html-5.svg"/>
+  <img height="55" src="https://github.com/leffin23/leffin23/blob/main/css-3.svg"/>
   <img width="50" src="https://github.com/leffin23/leffin23/blob/main/git-icon.svg"/>
    <img width="50" src="https://github.com/leffin23/leffin23/blob/main/electron.svg"/>
    <img height="45" src="https://github.com/leffin23/leffin23/blob/main/docker-icon.svg"/>
