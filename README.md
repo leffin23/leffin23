@@ -12,7 +12,7 @@
       </ul>
     </td>
       <td>
-      <img width="400" src="https://img.freepik.com/free-vector/colorful-illustration-female-programmer-working_23-2148277397.jpg" alt="Daria Sereda">
+      <img width="300" src="https://img.freepik.com/free-vector/colorful-illustration-female-programmer-working_23-2148277397.jpg" alt="Daria Sereda">
     </td>
   </tr>
 </table>
