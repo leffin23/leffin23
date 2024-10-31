@@ -1,12 +1,8 @@
 
-<!--
-**leffin23/leffin23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Daria Sereda</h1>
 <h3 align="center">A software engineer that has passion in web-development</h3>
 <img align="right" alt="coding" width='400' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8PMP8RkQKFWXbwIH8VqZjh9NyKUmwRjATug&usqp=CAU">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jahid28&label=Profile%20views&color=0e75b6&style=flat" alt="jahid28" /> </p>
+<p align="left"> <img src="https://img.freepik.com/free-vector/colorful-illustration-female-programmer-working_23-2148277397.jpg" alt="jahid28" /> </p>
 
 - 🌱 I’m currently learning Next.js and TypeScript...
 - 👨‍💻 You can see my portfolio website here: [dariasereda.vercel.app](https://dariasereda.vercel.app)
