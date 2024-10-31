@@ -18,3 +18,20 @@
 </table>
 
 <h3 align="left">Languages and Tools:</h3>
+<p>
+  <img width="50" src="https://github.com/leffin23/leffin23/blob/main/javascript.svg"/>
+  <img width="50" src="https://github.com/leffin23/leffin23/blob/main/react.svg"/>
+  <img width="50" src="https://github.com/leffin23/leffin23/blob/main/python.svg"/>
+  <img width="50" src="https://github.com/leffin23/leffin23/blob/main/django-icon.svg"/>
+  <img width="50" src="https://github.com/leffin23/leffin23/blob/main/typescript-icon.svg"/>
+  <img width="50" src="https://github.com/leffin23/leffin23/blob/main/nextjs-icon.svg"/>
+  <img width="50" src="https://github.com/leffin23/leffin23/blob/main/nodejs-icon.svg"/>
+  <img width="50" src="https://github.com/leffin23/leffin23/blob/main/postgresql.svg"/>
+  <img height="60" src="https://github.com/leffin23/leffin23/blob/main/mongodb-icon.svg"/>  
+  <img width="50" src="https://github.com/leffin23/leffin23/blob/main/html-5.svg"/>
+  <img width="50" src="https://github.com/leffin23/leffin23/blob/main/css-3.svg"/>
+  <img width="50" src="https://github.com/leffin23/leffin23/blob/main/git-icon.svg"/>
+   <img width="50" src="https://github.com/leffin23/leffin23/blob/main/electron.svg"/>
+   <img width="50" src="https://github.com/leffin23/leffin23/blob/main/docker-icon.svg"/>
+  <img width="60" src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/java.svg" />
+</p>
